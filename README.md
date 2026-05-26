@@ -1,6 +1,6 @@
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
-Bem vindo(a)! Este é o resultado do primeiro desafio da Trilha de CSS da DIO! Neste desafio o objetivo é reconstruir o modelo de Landing Page proposto com HTML e CSS, colocando em prática os fundamentos do CSS aprendidos durante o curso, as propriedades básicas da linguagem de estilização e trabalhar com as unidades de medidas relativas e absolutas aprendidas ao longo da trilha.
+Bem vindo(a), este é o resultado do primeiro desafio da Trilha de CSS da DIO! Neste desafio o objetivo é reconstruir o modelo de Landing Page proposto com HTML e CSS, colocando em prática os fundamentos do CSS aprendidos durante o curso, as propriedades básicas da linguagem de estilização e trabalhar com as unidades de medidas relativas e absolutas aprendidas ao longo da trilha.
 
 [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
